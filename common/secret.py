@@ -5,12 +5,12 @@ def get_gtoken(skey):
         return hash_val&0x7fffffff
 
 
-app_id = 251000710
+app_id = 0
 
 
-secret_id = "AKID1agWVShCU7cQxKh33n9w98kw3SHhg5Pv"
-secret_key = "7v64T1gUSB8hCazvDJUWxVHZzBJjbRBz"
-uin = "3374998458"
+secret_id = ""
+secret_key = ""
+uin = ""
 
 skey = ''
 
