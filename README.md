@@ -6,3 +6,5 @@ operate qcloud resource with v2, v3 or front interfaces
 
 例子执行方式
 python test.py
+
+use get_skey.py to get the cookie
